@@ -1,1 +1,2 @@
 Hi Difference test
+Added new line
