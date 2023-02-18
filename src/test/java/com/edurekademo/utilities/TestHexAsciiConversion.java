@@ -1,8 +1,8 @@
-package com.devopsdemo.utilities;
+package com.edurekademo.utilities;
 
 import static org.junit.Assert.*;
 
-import com.devopsdemo.utilities.HexAsciiConvertor;
+import com.edurekademo.utilities.HexAsciiConvertor;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
