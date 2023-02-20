@@ -4,5 +4,4 @@ Thank you augustine - Maclean Awuku-Darko Sem
 Thank you for showing up
 hellooooo
 hello trigger
-my first trigger
-test jenkins
+test trigger
